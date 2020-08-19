@@ -1,2 +1,2 @@
 def reverse_each_word(sentence)
-  reveresed = sentence
+  reveresed = sentence.split("")
